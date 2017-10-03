@@ -1,0 +1,25 @@
+{
+  "name": "bsvue",
+  "version": "1.0.0",
+  "description": "a new vue widget liarary base on bootstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/situ2011/bsvue.git"
+  },
+  "keywords": [
+    "vue",
+    "bootstarp",
+    "wbc",
+    "situ"
+  ],
+  "author": "situ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/situ2011/bsvue/issues"
+  },
+  "homepage": "https://github.com/situ2011/bsvue#readme"
+}
